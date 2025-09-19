@@ -3,3 +3,4 @@
 Javascript and DOM self assessment for CS 5610 Web Development
 
 Deployment: https://scrimba.com/ide/s00u2ldfom/head
+(still uploading to scrimba had some issues with images generating)

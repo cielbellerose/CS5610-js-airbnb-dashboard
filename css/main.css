@@ -1,0 +1,35 @@
+#lintings .listing img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+/* #E5FFDE  BBCBCB 9590A8 634B66 18020C*/
+
+h1 {
+  margin: 2rem 0rem;
+}
+
+.card-body {
+  padding: 5px solid #18020c;
+  background-color: #9590a8;
+}
+
+.card-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.btn {
+  background-color: #634b66;
+  border: 2px solid #18020c;
+  margin: 0px 20px;
+  color: white;
+  transition: all 0.2s ease;
+}
+
+.btn:hover {
+  background-color: #49374b;
+  border: 2px solid #18020c;
+  box-shadow: 0 0 10px #f4a3ff;
+  transform: scale(1.05);
+}
